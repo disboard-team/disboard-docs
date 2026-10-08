@@ -1,4 +1,6 @@
 ---
+title: "Website Documentation (v0 Archive)"
+description: "Archived v0 technical overview of the Disboard.team website. This historical version is not maintained."
 head:
   - - meta
     - name: robots

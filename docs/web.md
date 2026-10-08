@@ -1,3 +1,8 @@
+---
+title: "Website Documentation"
+description: "Technical overview of the Disboard.team website, its technology, dependencies, and repository."
+---
+
 # Website
 
 ## Intro

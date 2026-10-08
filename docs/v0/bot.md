@@ -1,4 +1,6 @@
 ---
+title: "Discord Bot Documentation (v0 Archive)"
+description: "Archived v0 documentation for the Disboard Discord bot. This historical version is not maintained."
 head:
   - - meta
     - name: robots

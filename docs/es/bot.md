@@ -1,3 +1,8 @@
+---
+title: "Documentación del bot de Discord"
+description: "Documentación del bot de Discord de Disboard, sus dependencias y comandos disponibles."
+---
+
 # Bot
 
 ## Introducción

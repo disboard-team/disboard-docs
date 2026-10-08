@@ -1,4 +1,6 @@
 ---
+title: "Documentation (v0 Archive)"
+description: "Archived v0 documentation for the Disboard.team project. This historical version is not maintained."
 head:
   - - meta
     - name: robots

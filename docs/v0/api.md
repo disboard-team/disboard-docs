@@ -1,4 +1,6 @@
 ---
+title: "API Documentation (v0 Archive)"
+description: "Archived v0 API reference for Disboard.team. This historical version is not maintained."
 head:
   - - meta
     - name: robots

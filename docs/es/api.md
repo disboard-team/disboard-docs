@@ -1,3 +1,8 @@
+---
+title: "Documentación de la API"
+description: "Referencia de la API de Disboard.team, con recursos de jugadores, equipos y guerras."
+---
+
 # API
 
 ## Introducción

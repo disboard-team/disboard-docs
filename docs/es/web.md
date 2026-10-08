@@ -1,3 +1,8 @@
+---
+title: "Documentación del sitio web"
+description: "Descripción técnica del sitio de Disboard.team, sus tecnologías, dependencias y repositorio."
+---
+
 # Sitio web
 
 ## Introducción

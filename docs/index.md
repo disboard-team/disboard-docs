@@ -1,3 +1,8 @@
+---
+title: "Documentation"
+description: "Documentation for the Disboard.team project, including its API, website, Discord bot, and ecosystem."
+---
+
 # Disboard Documentation
 
 ## Intro
