@@ -1,20 +1,16 @@
 {
   "name": "jibril",
   "version": "1.0.0",
-  "description": "Disboard Documentation",
+  "description": "Disboard Team Documentation",
   "main": "",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs"
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
   },
-  "repository": "github:Qu4k3/disboard-docs",
+  "repository": "github:disboard-team/disboard-docs",
   "author": "Qu4k3",
   "license": "ISC",
-  "dependencies": {
-    "vuepress": "^0.14.10"
-  },
   "devDependencies": {
-    "webpack-dev-middleware": "^3.6.0"
+    "vuepress": "1.9.10"
   }
 }

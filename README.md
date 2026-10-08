@@ -14,35 +14,26 @@ Documentation that covers everything related to the disboard project
 
 ### Dependencies
 
-- vuepress
-- webpack-dev-middleware _(v 3.6.0)_
+- VuePress 1.9.10
 
 ## Setup
 
-> run `npm install` to install all the dependencies
+Run `npm install` to install all dependencies.
 
 ```shell
 npm install
 ```
 
-> Fix march 2019 issue
+Start the VuePress development server:
 
 ```shell
-npm install webpack-dev-middleware@3.6.0
+npm run dev
 ```
 
-> run VuePress
-
-test it
+Build the documentation:
 
 ```shell
-npm run docs:dev
-```
-
-or build it
-
-```shell
-npm run docs:build
+npm run build
 ```
 
 You will then be able to access it at localhost:8080

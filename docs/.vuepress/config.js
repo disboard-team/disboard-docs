@@ -4,9 +4,9 @@ module.exports = {
     base: "/",
     themeConfig: {
         logo: 'https://cdn.discordapp.com/attachments/503303753705848838/561619188687568916/jibril_square.jpg',
-        repo: 'Qu4k3/disboard-docs',
+        repo: 'disboard-team/disboard-docs',
         repoLabel: 'Github',
-        docsRepo: 'Qu4k3/disboard-docs',
+        docsRepo: 'disboard-team/disboard-docs',
         docsDir: 'docs',
         docsBranch: 'master',
         editLinks: false,
@@ -26,7 +26,8 @@ module.exports = {
             ]
         },
         displayAllHeaders: true,
-        lastUpdated: 'Last Updated'
+        lastUpdated: true,
+        lastUpdatedText: 'Última modificación'
     },
     head: [
         ['link', { rel: "icon", href: "/favicon.ico" }]

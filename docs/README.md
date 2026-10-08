@@ -22,13 +22,12 @@ sRGB <span style="background-color: #ff239d;padding:5px 10px;color:#fff;">#ff239
 </p>
 
 - Nodejs
-- VuePress 0.x - [site](https://vuepress.vuejs.org)
+- VuePress 1.x - [site](https://v1.vuepress.vuejs.org)
 - Netlify deploy/hosting - [site](https://www.netlify.com)
 
 ### Dependencies
 
-- vuepress
-- webpack-dev-middleware _(v 3.6.0)_
+- VuePress 1.9.10
 
 ### Take a look
 
