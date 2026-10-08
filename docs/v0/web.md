@@ -1,3 +1,10 @@
+---
+head:
+  - - meta
+    - name: robots
+      content: noindex, nofollow
+---
+
 # Website
 
 ## Intro

@@ -4,13 +4,13 @@
   "description": "Disboard Team Documentation",
   "main": "",
   "scripts": {
-    "dev": "vuepress dev docs",
-    "build": "vuepress build docs"
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs"
   },
   "repository": "github:disboard-team/disboard-docs",
   "author": "Qu4k3",
   "license": "MIT",
   "devDependencies": {
-    "vuepress": "1.9.10"
+    "vitepress": "1.6.4"
   }
 }
