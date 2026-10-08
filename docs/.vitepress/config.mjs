@@ -1,6 +1,17 @@
 import { defineConfig } from 'vitepress'
 
 const siteUrl = 'https://docs.disboard.team'
+const umamiHead = process.env.NODE_ENV === 'production'
+  ? [
+      ['script', {
+        defer: true,
+        src: '/umami.js',
+        'data-website-id': '7e09e508-2d61-4273-a71c-8827a1ef2069',
+        'data-host-url': 'https://umami.qu4k3.com',
+        'data-domains': 'docs.disboard.team',
+      }],
+    ]
+  : []
 
 function getRoutePath(relativePath) {
   const path = relativePath.replace(/\\/g, '/').replace(/\.md$/, '')
@@ -200,6 +211,7 @@ export default defineConfig({
     ['link', { rel: 'apple-touch-icon', sizes: '180x180', href: '/apple-touch-icon.png' }],
     ['link', { rel: 'manifest', href: '/site.webmanifest' }],
     ['meta', { name: 'theme-color', content: '#171020' }],
+    ...umamiHead,
   ],
   themeConfig: {
     logo: '/images/jibril_square.jpg',
