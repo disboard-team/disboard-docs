@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="250" height="300" src="https://cdn.discordapp.com/attachments/503303753705848838/561618120649867287/jibril.gif">
+    <img width="250" height="300" style="border-radius: 8px;" src="docs/public/images/jibril.gif">
 </p>
 
 # Disboard Docs
@@ -9,40 +9,37 @@ Documentation that covers everything related to the disboard project
 ## Used
 
 - Nodejs
-- VuePress
+- VitePress
 - Netlify deploy/hosting - [site](https://www.netlify.com)
 
 ### Dependencies
 
-- vuepress
-- webpack-dev-middleware _(v 3.6.0)_
+- VitePress 1.6.4
 
 ## Setup
 
-> run `npm install` to install all the dependencies
+Run `npm install` to install all dependencies.
 
 ```shell
 npm install
 ```
 
-> Fix march 2019 issue
+Start the VitePress development server:
 
 ```shell
-npm install webpack-dev-middleware@3.6.0
+npm run dev
 ```
 
-> run VuePress
-
-test it
+Build the documentation:
 
 ```shell
-npm run docs:dev
+npm run build
 ```
 
-or build it
+You will then be able to access it at localhost:5173
 
-```shell
-npm run docs:build
-```
+## Documentation versions
 
-You will then be able to access it at localhost:8080
+- [v1 (current)](https://docs.disboard.team/)
+- [Español](https://docs.disboard.team/es/)
+- [v0](https://docs.disboard.team/v0/)

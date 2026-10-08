@@ -1,6 +1,10 @@
 ---
-title: "Discord Bot Documentation"
-description: "Documentation for the Disboard Discord bot, its dependencies, and available commands."
+title: "Discord Bot Documentation (v0 Archive)"
+description: "Archived v0 documentation for the Disboard Discord bot. This historical version is not maintained."
+head:
+  - - meta
+    - name: robots
+      content: noindex, nofollow
 ---
 
 # Bot

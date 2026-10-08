@@ -1,0 +1,21 @@
+{
+  "name": "Disboard.team Documentation",
+  "short_name": "Disboard Docs",
+  "description": "Documentation for the Disboard.team project.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ff239d",
+  "theme_color": "#ff239d",
+  "icons": [
+    {
+      "src": "/favicon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

@@ -1,11 +1,11 @@
 ---
-title: "Website Documentation"
-description: "Technical overview of the Disboard.team website, its technology, dependencies, and repository."
+title: "Documentación del sitio web"
+description: "Descripción técnica del sitio de Disboard.team, sus tecnologías, dependencias y repositorio."
 ---
 
-# Website
+# Sitio web
 
-## Intro
+## Introducción
 
 <p align="center">
     <img src="https://img.shields.io/uptimerobot/status/m782313365-bb837257051f080edab58f83.svg?label=server&style=flat" /> <img src="https://img.shields.io/uptimerobot/ratio/m782313365-bb837257051f080edab58f83.svg?label=server%20uptime&style=flat" />&nbsp;
@@ -16,15 +16,15 @@ description: "Technical overview of the Disboard.team website, its technology, d
     <img width="250" height="300" src="/images/kuhaku.gif">
 </p>
 
-### About
+### Acerca del sitio
 
-Disboard.team site built using React.
+Sitio web de Disboard.team desarrollado con React.
 
-### Color code
+### Código de color
 
 <span style="line-height: 2.2;">RGB <span style="background-color: #364a92;padding:5px 10px;color:#fff;">#364a92</span>&nbsp;&nbsp;<span style="background-color: #364a92;padding:5px 10px;color:#fff;">rgb(54, 74, 146)</span></span>
 
-### Used
+### Tecnologías utilizadas
 
 <p align="center" class="spaced-items">
     <img width="100" src="/images/react_3.png"><img width="100" src="/images/jsx_3.png"><img width="100" src="/images/react-router_2.png"><img width="100" src="/images/react-helmet.png"><img width="100" src="/images/vercel_2.png">
@@ -33,21 +33,21 @@ Disboard.team site built using React.
 - React
 - Vercel
 
-#### Other
+#### Otras herramientas
 
 - JSX
-- React Router - [docs](https://github.com/ReactTraining/react-router)
-- React Helmet - [github](https://github.com/nfl/react-helmet)
+- React Router - [documentación](https://github.com/ReactTraining/react-router)
+- React Helmet - [GitHub](https://github.com/nfl/react-helmet)
 
-### Dependencies
+### Dependencias
 
 - Node Sass
 - _dotenv_
 
-### Check site
+### Visita el sitio
 
 [https://disboard.team](https://disboard.team)
 
-### Repository <Badge text="private" type="warning" vertical="top"/>
+### Repositorio <Badge text="privado" type="warning" vertical="top"/>
 
 [https://github.com/Qu4k3/disboard-web](https://github.com/Qu4k3/disboard-web)
