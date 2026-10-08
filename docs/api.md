@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/uptimerobot/status/m781896193-0fc26013b414711d48d26082.svg?label=API%20status&style=flat" /> <img src="https://img.shields.io/uptimerobot/ratio/m781896193-0fc26013b414711d48d26082.svg?label=API%20uptime&style=flat" />
 </p>
 <p align="center">
-    <img width="250" height="300" src="https://media.discordapp.net/attachments/561938814063607823/574335592259780608/shuvi.gif">
+    <img width="250" height="300" src="/images/shuvi.gif">
 </p>
 
 ### About
@@ -24,7 +24,7 @@ Project hosted in Heroku.
 ### Used
 
 <p align="center" class="spaced-items">
-    <img width="100" src="https://media.discordapp.net/attachments/561938814063607823/562065427652673556/node_3.png"><img width="100" src="https://media.discordapp.net/attachments/561938814063607823/562067473206214696/mongoose.png"><img width="100" src="https://media.discordapp.net/attachments/561938814063607823/562065425190617088/mongodb_2.png"><img width="100" src="https://media.discordapp.net/attachments/561938814063607823/562331319363960834/discord_3.png"><!--<img width="100" src="https://media.discordapp.net/attachments/561938814063607823/562065429997289502/jwt.png">--><img width="100" src="https://media.discordapp.net/attachments/561938814063607823/562065428659306506/heroku_3.png"><img width="100" src="https://media.discordapp.net/attachments/561938814063607823/562068398440185900/robo3t.png"><img width="100" src="https://media.discordapp.net/attachments/561938814063607823/562068648445870112/postman.png"><img width="100" src="https://media.discordapp.net/attachments/561938814063607823/562072391216529440/circleci.png">
+    <img width="100" src="/images/node_3.png"><img width="100" src="/images/mongoose.png"><img width="100" src="/images/mongodb_2.png"><img width="100" src="/images/discord_3.png"><!--<img width="100" src="/images/jwt.png">--><img width="100" src="/images/heroku_3.png"><img width="100" src="/images/robo3t.png"><img width="100" src="/images/postman.png"><img width="100" src="/images/circleci.png">
 </p>
 
 - Nodejs

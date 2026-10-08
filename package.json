@@ -9,7 +9,7 @@
   },
   "repository": "github:disboard-team/disboard-docs",
   "author": "Qu4k3",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "vuepress": "1.9.10"
   }

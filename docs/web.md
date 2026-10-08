@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-    <img width="250" height="300" src="https://cdn.discordapp.com/attachments/561938814063607823/585952102833061902/kuhaku.gif">
+    <img width="250" height="300" src="/images/kuhaku.gif">
 </p>
 
 ### About
@@ -22,7 +22,7 @@ Disboard.team site built using React.
 ### Used
 
 <p align="center" class="spaced-items">
-    <img width="100" src="https://cdn.discordapp.com/attachments/561938814063607823/721487233231880232/react_3.png"><img width="100" src="https://cdn.discordapp.com/attachments/561938814063607823/721487224662917200/jsx_3.png"><img width="100" src="https://cdn.discordapp.com/attachments/561938814063607823/721487215129133158/react-router_2.png"><img width="100" src="https://cdn.discordapp.com/attachments/561938814063607823/721487801706610698/react-helmet.png"><img width="100" src="https://cdn.discordapp.com/attachments/561938814063607823/721488319040585790/vercel_2.png">
+    <img width="100" src="/images/react_3.png"><img width="100" src="/images/jsx_3.png"><img width="100" src="/images/react-router_2.png"><img width="100" src="/images/react-helmet.png"><img width="100" src="/images/vercel_2.png">
 </p>
 
 - React

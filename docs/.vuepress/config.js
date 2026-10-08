@@ -3,7 +3,7 @@ module.exports = {
     description: 'Disboard documentation. Covers everything related to the disboard project, from the web and API reference to the coding and commands from the bot.',
     base: "/",
     themeConfig: {
-        logo: 'https://cdn.discordapp.com/attachments/503303753705848838/561619188687568916/jibril_square.jpg',
+        logo: '/images/jibril_square.jpg',
         repo: 'disboard-team/disboard-docs',
         repoLabel: 'Github',
         docsRepo: 'disboard-team/disboard-docs',

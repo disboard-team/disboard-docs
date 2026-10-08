@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-    <img width="250" height="300" src="https://cdn.discordapp.com/attachments/503303753705848838/541225512459042818/tet_github.png">
+    <img width="250" height="300" src="/images/tet_github.png">
 </p>
 
 ### About
@@ -24,7 +24,7 @@ Discord bot built for team management, quick info checking and some other helpfu
 ### Used
 
 <p align="center" class="spaced-items">
-    <img width="100" src="https://cdn.discordapp.com/attachments/561938814063607823/561942886770278421/node_2.png"><img width="100" src="https://cdn.discordapp.com/attachments/561938814063607823/561943014038044692/discordjs.png"><img width="100" src="https://cdn.discordapp.com/attachments/561938814063607823/561943010930065426/discord.png"><img width="100" src="https://cdn.discordapp.com/attachments/561938814063607823/561943019151163393/webhooks.png"><img width="100" src="https://cdn.discordapp.com/attachments/561938814063607823/561943015493730315/glitch.png"><img width="100" src="https://media.discordapp.net/attachments/561938814063607823/562330288265363484/flyio.png">
+    <img width="100" src="/images/node_2.png"><img width="100" src="/images/discordjs.png"><img width="100" src="/images/discord.png"><img width="100" src="/images/webhooks.png"><img width="100" src="/images/glitch.png"><img width="100" src="/images/flyio.png">
 </p>
 
 - Nodejs
