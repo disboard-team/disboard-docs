@@ -4,6 +4,8 @@
 
 # Disboard Docs
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b2f37b31-a4f7-479a-b9f9-204c9a07b194/deploy-status)](https://app.netlify.com/projects/disboard-docs/deploys)
+
 Documentation that covers everything related to the disboard project
 
 ## Used
