@@ -100,7 +100,7 @@ function applySeoMetadata(pageData) {
 }
 
 export default defineConfig({
-  title: 'Disboard.team Docs',
+  title: 'Jibril Docs',
   description: 'Disboard documentation. Covers everything related to the disboard project, from the web and API reference to the coding and commands from the bot.',
   base: '/',
   cleanUrls: true,
@@ -158,7 +158,7 @@ export default defineConfig({
     es: {
       label: 'Español',
       lang: 'es-ES',
-      title: 'Documentación de Disboard.team',
+      title: 'Jibril Docs',
       description: 'Documentación de Disboard: referencia de la web y la API, y guía del bot.',
       themeConfig: {
         nav: [
